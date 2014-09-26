@@ -3,9 +3,9 @@
   (general
     (links 499)
     (no_connects 0)
-    (area 31.207529 23.82 210.565 144.43)
+    (area 31.207529 23.82 210.565 140.83)
     (thickness 1.6)
-    (drawings 31)
+    (drawings 30)
     (tracks 1461)
     (zones 0)
     (modules 240)
@@ -7553,9 +7553,6 @@
     )
   )
 
-  (gr_text "resistori pt leduri 12-40v la 2k2 ??\nadaugat led pt pswitch power in la capat\nsiguranta de 6,3mm nu se potriveste\nresistori serie protectie linii digital 270-1k ???\nfeturi cu leduri pt stare endstopuri???" (at 108.585 138.43) (layer F.Cu) (tstamp 53DE568C)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
-  )
   (gr_line (start 162.56 77.47) (end 185.1025 77.47) (angle 90) (layer Edge.Cuts) (width 0.1) (tstamp 53FF251A))
   (gr_line (start 111.76 77.47) (end 137.16 77.47) (angle 90) (layer Edge.Cuts) (width 0.1) (tstamp 53FF250E))
   (gr_line (start 86.36 77.47) (end 60.96 77.47) (angle 90) (layer Edge.Cuts) (width 0.1) (tstamp 53FF2512))
