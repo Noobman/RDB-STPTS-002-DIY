@@ -6,7 +6,9 @@ RDB-STPTS-002-DIY
 Further info at www.reprap.org/wiki/RDB-STPTS-002-DIY
 
 
-TODO:
+
+
+Current TODO list:
 
 *rework the 6.3mm fuse footprint (currently does not fit correctly)
 
